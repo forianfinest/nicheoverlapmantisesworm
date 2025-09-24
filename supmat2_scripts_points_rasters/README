@@ -1,0 +1,7 @@
+As we said in the publication, we used random background points.
+
+In case you want to replicate with the same bg points we used, we exported the points thanks to the functions write.csv().
+
+We also put the rasters we used for ENMTools calculations here.
+
+"tiformo" here is meant as "Titanodula formosana".
