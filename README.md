@@ -3,3 +3,5 @@ Supplementary materials for "Modeling the geographical distributions of Chordode
 
 Equivalent of:
 https://zenodo.org/records/6899278
+
+Scripts and used rasters are in their own folder, although I cannot upload WorldClim data.
